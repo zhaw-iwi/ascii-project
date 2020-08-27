@@ -1,2 +1,6 @@
 tasks:
   - command: gp open README.md
+
+vscode:
+  extensions:
+    - yzhang.markdown-all-in-one@3.2.0:DbeLDJCk5YNkCydaYNh5uw==
